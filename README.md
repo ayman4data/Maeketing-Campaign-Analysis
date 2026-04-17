@@ -236,5 +236,9 @@ The raw dataset contained the following real-world data quality issues, resolved
 - Business insight communication
 
 ---
+### Contact & Connect
+* **LinkedIn:** [Ayman Djemoui](https://www.linkedin.com/in/ayman-djemoui-249286126/)
+* **GitHub Portfolio:** [ayman4data](https://github.com/ayman4data)
+---
 
 *Built with Excel · SQL Server · Power BI | Data: AI-generated (2023–2024) | 7 channels · 8 campaigns · 667K conversions*
